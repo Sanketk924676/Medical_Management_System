@@ -27,11 +27,7 @@ A **Python Tkinter-based Medical/Pharmacy Management System** to manage medicine
 **Main Window:**
 ![Main Window](Screenshots/add.png)
 
-**Add Item Dialog:**
-![Add Item](screenshots/update.png)
 
-**History Display:**
-![History](screenshots/adding_medicine.png)
 
 
 ## Installation
