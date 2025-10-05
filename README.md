@@ -23,6 +23,16 @@ A **Python Tkinter-based Medical/Pharmacy Management System** to manage medicine
   - Ready for low-stock alerts and reporting
 
 ---
+**Screenshots**
+**Main Window:**
+![Main Window](Screenshots/add.png)
+
+**Add Item Dialog:**
+![Add Item](screenshots/update.png)
+
+**History Display:**
+![History](screenshots/adding_medicine.png)
+
 
 ## Installation
 
@@ -33,14 +43,3 @@ A **Python Tkinter-based Medical/Pharmacy Management System** to manage medicine
 ```bash
 git clone https://github.com/<YOUR_USERNAME>/Medical_Management_System.git
 cd Medical_Management_System
-## Screenshots
-
-**Main Window:**
-![Main Window](screenshots\adding_medicine.png)
-
-**Add Item Dialog:**
-![Add Item](screenshots\update.png
-
-**History Display:**
-![History](screenshots\adding_medicine.png)
-
